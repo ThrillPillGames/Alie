@@ -1,5 +1,5 @@
 # Curious-Alie
- Endless Runner
+
  PRIVACY POLICY
  This privacy policy governs your use of the software application [CURIOUS ALIE] (“Application”) for mobile devices that was created by [THRILLPILLGAMES]. The Application is a casual game, endless runner.
  What information does the Application obtain and how is it used?
